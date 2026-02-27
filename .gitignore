@@ -1,3 +1,7 @@
-.DS_Store
+# 1. 忽略当前目录下的所有文件和文件夹
+/*
 
-commands/init.md
+# 保留特定文件
+!/*.gitignore
+!/commands/*
+!/skills/
